@@ -1,4 +1,4 @@
-# search README
+# Search Youtube From VSCode
 
 This Extension helps you to search YouTube videos directly from your favorite code editor.
 
